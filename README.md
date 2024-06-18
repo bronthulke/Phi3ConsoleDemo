@@ -1,3 +1,9 @@
+## Demo branches
+
+1) `main` - the initial "cut" of the demo, where we just use LM Studio (or Ollama) to chat with the phi-3 model
+2) `step-2` - the next step, where we start using the AI to gather intent of a request, and then manually invoke functions to do our bidding
+3) `step-3` - the final step (for now!), where we switch to using Azure Open AI with "automatic invoking" of the functions (plugins), together with a planner to orchestrate it all
+
 ## Helpful links
 
 Here are some helpful links for learning more about Phi-3, Semantic Kernal, plugins etc
