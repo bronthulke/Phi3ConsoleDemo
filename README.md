@@ -8,20 +8,20 @@
 
 Here are some helpful links for learning more about Phi-3, Semantic Kernal, plugins etc
 
-- [Phi-3 release announcement](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/)
+- [Phi-3 release announcement](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms?wt.mc_id=MVP_383786)
 
 - [Phi-3-mini on Hugging Face](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct)
 
-- [What is Semantic Kernal - on Microsoft Learn](https://learn.microsoft.com/en-us/semantic-kernel/overview/?tabs=Csharp)
+- [What is Semantic Kernal - on Microsoft Learn](https://learn.microsoft.com/en-us/semantic-kernel/overview/?tabs=Csharp&wt.mc_id=MVP_383786)
 
 and then within that whole Learn section, the following are particularly useful articles, including code examples that you can build to get going quickly:
 
-- [What is an agent?](https://learn.microsoft.com/en-us/semantic-kernel/agents/?source=recommendations)
+- [What is an agent?](https://learn.microsoft.com/en-us/semantic-kernel/agents/?source=recommendations?wt.mc_id=MVP_383786)
 
-- [Prompting AI models with Semantic Kernal](https://learn.microsoft.com/en-us/semantic-kernel/prompts/your-first-prompt?tabs=Csharp)
+- [Prompting AI models with Semantic Kernal](https://learn.microsoft.com/en-us/semantic-kernel/prompts/your-first-prompt?tabs=Csharp&wt.mc_id=MVP_383786)
 
-- [Creating native functions for AI to call](https://learn.microsoft.com/en-us/semantic-kernel/agents/plugins/using-the-kernelfunction-decorator)
+- [Creating native functions for AI to call](https://learn.microsoft.com/en-us/semantic-kernel/agents/plugins/using-the-kernelfunction-decorator?wt.mc_id=MVP_383786)
 
 And the ultimage goal...
 
-- [Automatically orchestrate AI with Planners](https://learn.microsoft.com/en-us/semantic-kernel/agents/planners/)
+- [Automatically orchestrate AI with Planners](https://learn.microsoft.com/en-us/semantic-kernel/agents/planners/?wt.mc_id=MVP_383786)
