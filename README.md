@@ -16,7 +16,7 @@ Here are some helpful links for learning more about Phi-3, Semantic Kernal, plug
 
 and then within that whole Learn section, the following are particularly useful articles, including code examples that you can build to get going quickly:
 
-- [What is an agent?](https://learn.microsoft.com/en-us/semantic-kernel/agents/?source=recommendations?wt.mc_id=MVP_383786)
+- [What is an agent?](https://learn.microsoft.com/en-us/semantic-kernel/agents/?source=recommendations&wt.mc_id=MVP_383786)
 
 - [Prompting AI models with Semantic Kernal](https://learn.microsoft.com/en-us/semantic-kernel/prompts/your-first-prompt?tabs=Csharp&wt.mc_id=MVP_383786)
 
